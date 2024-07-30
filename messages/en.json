@@ -1,0 +1,301 @@
+{
+  "HomePage": {
+    "Header": {
+      "Home": "Home",
+      "Incorrect quote generator": "Incorrect quote generator",
+      "Inspirational quote generator": "Inspirational quote generator",
+      "AI quote generator": "AI quote generator",
+      "Random quote generator": "Random quote generator"
+    },
+    "FirstScreen": {
+      "BigTitle": "Unleash Wisdom with Quote Generator",
+      "SmallTitle": "Quotes generated so far.",
+      "tips1": "What do you want your quote to be about?",
+      "tips2": "Select your language.",
+      "tips3": "credits remaining",
+      "button1": "Generate Quotes",
+      "button2": "Available after logging in",
+      "result": "The Quotes you need"
+    },
+    "Pricing": {
+      "FreeTitle": "Free",
+      "FreeDescription": "Begin Your Exploration Journey",
+      "FreeCredits": "100 free credits per day",
+      "OptionalPurchase": "Optional credits purchase",
+      "PremiumTitle": "Premium",
+      "PremiumDescription": "5x more credits than Free version",
+      "PremiumCredits": "Up to 500 credits per day",
+      "EarlyAccess": "Early access to new features",
+      "UpgradeNow": "Upgrade Now",
+      "BoostPackTitle": "Boost Pack",
+      "BoostPackDescription": "Enough for a worry-free week",
+      "BoostPackOneOffBuy": "One-off buy",
+      "BoostPackValidity": "credits for a 7-day validity",
+      "BoostPackNoRenewal": "No auto-renewal after expiry",
+      "GetCredits": "Get 100 credits",
+      "loginRequired": "loginRequired"
+    },
+    "FAQ": {
+      "BigTitle": "Frequently Asked Questions",
+      "SmallTitle": "Need more help? Contact our Email anytime for personalized assistance and further information about us.",
+      "Q1": "How does our Quote Generator work?",
+      "A1": "Our Quote Generator is a innovative tool that creates unique quotes based on user input. Simply type in a topic or keywords, and the quote generator will produce a relevant quote attributed to a famous figure. This AI-powered quote generator is perfect for finding inspiration, creating content, or just having fun. It offers a fresh perspective on various subjects, making it useful for writers, speakers, and anyone seeking thought-provoking words.",
+      "Q2": "What are the steps to use the Quote Generator?",
+      "A2": "Using our Quote Generator is easy. First, enter your desired topic or keywords in the input box on the homepage. Then, click Generate The Quote Generator will instantly create a relevant quote. You can save quotes you like or continue generating new ones. The process is quick and intuitive, allowing you to experiment with different inputs and see how the Quote Generator interprets various topics to create unique quotes.",
+      "Q3": "Are the Quote Generator's outputs real or AI-created?",
+      "A3": "The quotes produced by our Quote Generator are original AI creations, not historical quotations. They're inspired by famous thinkers and celebrities but are entirely new. Our Quote Generator aims to provide novel, thought-provoking content rather than reproduce existing quotes. This approach allows for fresh perspectives on various topics and can spark new ideas or discussions.",
+      "Q4": "What's the difference between free and paid Quote Generator accounts?",
+      "A4": "Free accounts can use the Quote Generator 100 times per day, sufficient for most users. Paid accounts can generate 500 quotes daily, ideal for those needing more content. Paid users also enjoy extra features like more customization options, priority support, and the ability to download quotes in various formats. The paid Quote Generator account is particularly useful for content creators, marketers, and businesses.",
+      "Q5": "Can I use the Quote Generator's output commercially?",
+      "A5": "Yes, you can use the quotes from our Quote Generator for commercial purposes. Once generated, you have the right to use the quote in your work, whether for personal or business use. However, we recommend mentioning that the quote was created by an AI Quote Generator if using it professionally. This maintains transparency about the quote's origin.",
+      "Q6": "How relevant are the Quote Generator's results?",
+      "A6": "Our Quote Generator strives to create relevant quotes based on your input. However, as with any AI system, results can vary. Sometimes the Quote Generator produces highly insightful quotes directly related to your topic, while other times they might be more abstract. We encourage users to generate multiple quotes and select the ones that best fit their needs.",
+      "Q7": "Can I provide feedback on the Quote Generator?",
+      "A7": "Absolutely! We value user feedback to improve our Quote Generator. If you have suggestions, encounter issues, or want to report a problem, please use the Feedback button on our website. Our team regularly reviews user input to enhance the Quote Generator's performance and user experience. Your insights help us make the tool better for everyone.",
+      "Q8": "Is my data safe when using the Quote Generator?",
+      "A8": "We take data privacy seriously. When using our Quote Generator, we only collect information necessary to operate your account and improve our service. We never share or sell personal data. For paid accounts, payment information is processed securely. You can review our full privacy policy on our website for more detailed information about how we protect your data while using our Quote Generator."
+    },
+    "Features": {
+      "BigTitle": "Features of our Quote Generator",
+      "SmallTitle": "Offering a variety of quote generators to meet every need and inspire every moment.",
+      "Features1": "AI quote generator",
+      "Features1des": "Utilizes advanced algorithms to generate intelligent and contextually relevant quotes based on user preferences and input.",
+      "Features2": "Incorrect quote generator",
+      "Features2des": "Creates humorous and intentionally incorrect quotes, perfect for lightening the mood and sparking conversations.",
+      "Features3": "Inspirational quote generator",
+      "Features3des": "Delivers uplifting and motivational quotes designed to inspire, encourage, and elevate your daily mindset.",
+      "Features4": "Random quote generator",
+      "Features4des": "Provides a wide array of quotes from various sources, randomly selected to offer fresh and diverse perspectives.",
+      "Features5": "Best Quality",
+      "Features5des": "Ensures top-notch, carefully curated quotes that stand out for their depth, wisdom, and lasting impact.",
+      "Features6": "Fast Speed",
+      "Features6des": "Generates quotes almost instantly, ensuring a smooth and seamless user experience with no unnecessary waiting."
+    },
+    "Footer": {
+      "q1": "Home",
+      "q2": "Incorrect quote generator",
+      "q3": "Inspirational quote generator",
+      "q4": "AI quote generator",
+      "q5": "Random quote generator",
+      "q6": "Privacy Policy",
+      "q7": "Term of Service",
+      "FriendLinks": "Friendship Links"
+    }
+  },
+  "Incorrect quote generator": {
+    "FirstScreen": {
+      "BigTitle": "Incorrect Quote Generator",
+      "SmallTitle": "Incorrect Quotes generated so far.",
+      "tips1": "What do you want your Incorrect quote to be about?",
+      "tips2": "Select your language.",
+      "tips3": "credits remaining",
+      "button1": "Generate Incorrect Quotes",
+      "button2": "Available after logging in",
+      "result": "The Incorrect Quotes you need"
+    },
+    "FAQ": {
+      "BigTitle": "Frequently Asked Questions",
+      "SmallTitle": "Need more help? Contact our Email anytime for personalized assistance and further information about our Incorrect Quote Generator.",
+      "Q1": "What is the Incorrect Quote Generator?",
+      "A1": "The Incorrect Quote Generator is an AI-powered tool that generates quotes based on user input. Users can specify a topic or context, and the AI creates a quote that fits the desired theme, often attributing it to a famous personality. This tool can be useful for inspiration, humor, or social media content.",
+      "Q2": "How many quotes can I generate for free?",
+      "A2": "Free users of the Incorrect Quote Generator can generate up to 100 quotes per day. This allows users to explore various topics and see the creative outputs of the AI without any cost. If you need more, consider upgrading to our premium plan.",
+      "Q3": "What are the benefits of a paid subscription?",
+      "A3": "Paid subscribers to the Incorrect Quote Generator can generate up to 500 quotes per day. This is ideal for heavy users such as content creators, social media managers, or anyone who needs a large volume of quotes. Additionally, premium users might receive priority support and early access to new features.",
+      "Q4": "How do I upgrade to a paid subscription?",
+      "A4": "Upgrading to a paid subscription for the Incorrect Quote Generator is easy. Simply log in to your account, navigate to the subscription section, and choose the plan that suits your needs. Follow the prompts to enter your payment information and complete the upgrade.",
+      "Q5": "Can I use the generated quotes for commercial purposes?",
+      "A5": "Yes, you can use quotes generated by the Incorrect Quote Generator for commercial purposes. Whether you need quotes for marketing materials, social media posts, or other professional uses, our terms of service allow you to use them freely.",
+      "Q6": "What if I encounter issues with the Incorrect Quote Generator?",
+      "A6": "If you experience any problems while using the Incorrect Quote Generator, please contact our support team via the help section on our website. We are committed to providing timely assistance and ensuring a smooth user experience.",
+      "Q7": "Are the quotes created by the Incorrect Quote Generator accurate?",
+      "A7": "The quotes generated by the Incorrect Quote Generator are designed for creative and entertainment purposes. While they may be inspired by real quotes or figures, they are not necessarily accurate representations. Always verify the information if accuracy is crucial.",
+      "Q8": "How does the Incorrect Quote Generator ensure the uniqueness of quotes?",
+      "A8": "The Incorrect Quote Generator uses advanced AI algorithms to create unique and varied quotes each time. The AI is trained on a diverse dataset, which helps it produce a wide range of quotes based on the input provided, ensuring freshness and originality."
+    }
+  },
+  "Inspirational Quote Generator": {
+    "FirstScreen": {
+      "BigTitle": "Inspirational Quote Generator",
+      "SmallTitle": "Inspirational Quotes generated so far.",
+      "tips1": "What do you want your Inspirational quote to be about?",
+      "tips2": "Select your language.",
+      "tips3": "credits remaining",
+      "button1": "Generate Inspirational Quotes",
+      "button2": "Available after logging in",
+      "result": "The Inspirational Quotes you need"
+    },
+    "FAQ": {
+      "BigTitle": "Frequently Asked Questions",
+      "SmallTitle": "Need more help? Contact our Email anytime for personalized assistance and further information about our Inspirational Quote Generator.",
+      "Q1": "What is the Inspirational Quote Generator?",
+      "A1": "The Inspirational Quote Generator is a user-friendly online tool that leverages AI technology to generate customized celebrity quotes based on user input. Whether you're seeking motivation, encouragement, or a fresh perspective, our generator provides uplifting and thought-provoking quotes to inspire your day.",
+      "Q2": "How does the Inspirational Quote Generator work?",
+      "A2": "Using our Inspirational Quote Generator is simple! Just enter your desired content or keywords, and our AI system will analyze and generate relevant, inspiring quotes for you. The process is quick and easy, allowing you to access powerful messages in just moments.",
+      "Q3": "What's the difference between free and paid users?",
+      "A3": "Free users of our Inspirational Quote Generator can generate up to 100 quotes per day, while paid users enjoy the benefit of generating up to 500 quotes daily. This allows paid users greater flexibility and access to more quotes to suit their needs.",
+      "Q4": "Can I use the generated quotes for personal or commercial purposes?",
+      "A4": "Yes, you may use the quotes generated by our Inspirational Quote Generator for both personal and commercial purposes, subject to our terms of service. Please make sure to attribute the quotes appropriately if required.",
+      "Q5": "How often can I generate new quotes?",
+      "A5": "Free users can generate new quotes up to 100 times per day, while paid users can generate up to 500 times daily. Simply refresh the page or input new keywords to generate fresh quotes at any time.",
+      "Q6": "Are the quotes unique or taken from existing sources?",
+      "A6": "Our Inspirational Quote Generator uses AI to create unique quotes based on your input, ensuring that you receive fresh and original content each time you use the service. While the quotes may draw inspiration from existing works, they are not direct quotes from celebrities or historical figures.",
+      "Q7": "What if I'm not satisfied with the generated quotes?",
+      "A7": "We understand that not every quote may resonate with you. That's why our Inspirational Quote Generator allows you to input specific keywords or preferences to better tailor the quotes to your needs. Simply try again with different inputs or contact us for assistance.",
+      "Q8": "Is there a mobile app available for the Inspirational Quote Generator?",
+      "A8": "Currently, we only offer the Inspirational Quote Generator as a web-based service. However, we are constantly working on improving and expanding our offerings, so stay tuned for potential mobile app developments in the future!"
+    }
+  },
+  "AI Quote Generator": {
+    "FirstScreen": {
+      "BigTitle": "AI Quote Generator",
+      "SmallTitle": "AI Quotes generated so far.",
+      "tips1": "What do you want your AI quote to be about?",
+      "tips2": "Select your language.",
+      "tips3": "credits remaining",
+      "button1": "Generate AI Quotes",
+      "button2": "Available after logging in",
+      "result": "The AI Quotes you need"
+    },
+    "FAQ": {
+      "BigTitle": "Frequently Asked Questions",
+      "SmallTitle": "Need more help? Contact our Email anytime for personalized assistance and further information about our AI Quote Generator.",
+      "Q1": "What is the AI Quote Generator?",
+      "A1": "The AI Quote Generator is an innovative tool that creates personalized quotes based on user input. Whether you’re looking for inspiration or specific quotes from famous personalities, our AI-driven platform generates quotes tailored to your needs.",
+      "Q2": "How does the AI Quote Generator work?",
+      "A2": "The AI Quote Generator uses advanced artificial intelligence algorithms to analyze user input and generate relevant quotes. By leveraging extensive databases of historical quotes and modern AI techniques, it provides highly accurate and inspiring results.",
+      "Q3": "How many quotes can I generate daily with the AI Quote Generator for free?",
+      "A3": "Free users of the AI Quote Generator can generate up to 100 quotes per day. This generous allowance ensures that you can find ample inspiration and use the tool regularly without needing a subscription.",
+      "Q4": "What are the benefits of upgrading to a paid subscription on the AI Quote Generator?",
+      "A4": "Paid subscribers of the AI Quote Generator can generate up to 500 quotes per day. This upgrade is perfect for users who need more frequent access to a large number of quotes, whether for personal inspiration or professional use.",
+      "Q5": "Can I choose the type of quotes generated by the AI Quote Generator?",
+      "A5": "Yes, you can specify the type of quotes you want from the AI Quote Generator. Whether you're looking for motivational, philosophical, humorous, or any other kind of quote, simply input your preferences and the AI will tailor the quotes accordingly.",
+      "Q6": "Is the AI Quote Generator suitable for educational purposes?",
+      "A6": "Absolutely! The AI Quote Generator is an excellent resource for students, educators, and researchers. It can provide quotes relevant to various subjects and themes, enhancing learning materials and academic projects with ease.",
+      "Q7": "How secure is the AI Quote Generator with user data?",
+      "A7": "The AI Quote Generator is committed to user privacy and data security. We implement robust encryption and privacy measures to ensure that all user data and generated content are protected against unauthorized access.",
+      "Q8": "Can I use the AI Quote Generator quotes in my publications or social media?",
+      "A8": "Yes, quotes generated by the AI Quote Generator can be used in publications, social media posts, and other personal or professional projects. However, we recommend giving credit to the AI Quote Generator when using these quotes in public forums."
+    }
+  },
+  "Random Quote Generator": {
+    "FirstScreen": {
+      "BigTitle": "Random Quote Generator",
+      "SmallTitle": "Random Quotes generated so far.",
+      "tips1": "What do you want your Random quote to be about?",
+      "tips2": "Select your language.",
+      "tips3": "credits remaining",
+      "button1": "Generate Random Quotes",
+      "button2": "Available after logging in",
+      "result": "The Random Quotes you need"
+    },
+    "FAQ": {
+      "BigTitle": "Frequently Asked Questions",
+      "SmallTitle": "Need more help? Contact our Email anytime for personalized assistance and further information about our Random Quote Generator.",
+      "Q1": "How does the Random Quote Generator work?",
+      "A1": "Our Random Quote Generator uses advanced AI technology to create unique quotes based on your input. Simply enter a topic, theme, or keyword, and our system will generate a relevant quote attributed to a famous person. The AI analyzes vast amounts of data to produce quotes that sound authentic and inspirational. While these quotes are AI-generated and not actual statements by historical figures, they provide fresh perspectives and thought-provoking content for various purposes.",
+      "Q2": "What can I use the Random generated quotes for?",
+      "A2": "The quotes from our Random Quote Generator can be used for various purposes, including: Social media posts Blog content Presentations Personal inspiration Writing prompts Educational materials Motivational speeches Remember that these are AI-generated quotes and should be used responsibly. Always indicate that they are AI-generated when sharing publicly to avoid misattribution. Our service is designed to spark creativity and provide inspiration, not to create false historical records.",
+      "Q3": "How many Random quotes can I generate per day?",
+      "A3": "Free users of our Random Quote Generator can generate up to 100 quotes per day. This generous limit allows you to explore various topics and find the perfect quote for your needs. For users who require more quotes, we offer a premium plan that allows up to 500 quote generations daily. This higher limit is ideal for content creators, educators, and professionals who need a constant stream of fresh, inspiring content.",
+      "Q4": "Is there a limit to the topics I can input?",
+      "A4": "Our Random Quote Generator can handle a wide range of topics, from common themes like love and success to more specific subjects. However, we have built-in filters to prevent the generation of harmful, offensive, or explicit content. If your input is too specific or falls outside our guidelines, the system may struggle to generate a suitable quote. We recommend using broader themes or combining multiple concepts for the best results.",
+      "Q5": "Can I customize the style of the generated quotes?",
+      "A5": "Currently, our Random Quote Generator doesn't offer style customization options. The AI aims to create quotes that match the general style of famous quotations. However, we're constantly improving our system and may introduce style options in the future. If you're looking for quotes in a specific style, try including style-related keywords in your input.",
+      "Q6": "Are the generated quotes plagiarism-free?",
+      "A6": "The quotes produced by our Random Quote Generator are original creations by AI and not copied from existing sources. However, given the vast amount of existing quotes, there's a small chance of similarity to real quotes. To ensure originality, we recommend cross-checking important quotes against reputable quote databases. Remember, these AI-generated quotes should be treated as creative prompts rather than historical facts.",
+      "Q7": "How accurate are the attributions to famous people?",
+      "A7": "The attributions provided by our Random Quote Generator are fictional and should not be considered historically accurate. The AI assigns names of famous individuals to add context and make the quotes feel more authentic. However, these people didn't actually say these words. When using these quotes, always clarify that they are AI-generated to avoid spreading misinformation. The tool is designed for creative inspiration, not historical documentation.",
+      "Q8": "Can I save or download my favorite generated quotes?",
+      "A8": "Yes, our Random Quote Generator allows you to save and download your favorite quotes. Each generated quote comes with a Save button that adds it to your personal collection within your account. Premium users can also export their saved quotes in various formats (e.g., PDF, CSV) for easy use in other applications. This feature helps you build a personal library of inspiring AI-generated quotes tailored to your interests and needs."
+    }
+  },
+  "Dashboard": {
+    "q1": "Home",
+    "q2": "Billing",
+    "q3": "Sign out",
+    "q4": "Login"
+  },
+  "Login": {
+    "BigTitle": "Welcome back",
+    "SmallTitle": "Please select your login method.",
+    "text": "By clicking continue, you agree to our"
+  },
+  "Billing": {
+    "header": {
+      "heading": "Billing",
+      "text": "Manage billing and your subscription plan."
+    },
+    "plans": {
+      "free": {
+        "name": "Free"
+      },
+      "pro": {
+        "name": "PRO"
+      }
+    },
+    "Subscribe": {
+      "free": {
+        "description": "Begin Your Exploration Journey"
+      },
+      "membership": {
+        "description": "50x more credits than Free version"
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "Title": "Privacy Policy of Quote Generator",
+    "text": "\nEffective Date: April 24, 2024\n\nOverview\n\nQuote Generator operates the website https://quotegenerator.cc/ and is committed to protecting your privacy. This privacy policy outlines the types of information we collect, how we use it, and the steps we take to ensure your personal information is handled appropriately.\n\nInformation Collection\n\nPersonal Data\n\nWe collect personal data that you voluntarily provide to us, including but not limited to:\n\n●Name\n●Email Address\n●Payment Information\n\nThis information is collected for the purpose of order processing on our Quote Generator Directory.\n\nNon-Personal Data\n\nWe also collect non-personal data through web cookies, which includes usage details like your IP address, browser type, and pages visited on our site. This data is used to enhance your experience on our website.\n\nPurpose of Data Collection\n\nThe primary purpose of collecting your data is to process your orders and improve our website’s functionality and services.\n\nData Sharing\n\nWe respects your privacy. We do not share your personal data with any third parties, except as necessary to process your orders or comply with legal requirements.\n\nChildren’s Privacy\n\nOur services are not intended for children under the age of 18. We do not knowingly collect personal information from children.\n\nUpdates to This Privacy Policy\n\nWe may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the “Effective Date” at the top. We will also inform you via email of significant changes.\n\nContact Us\n\nIf you have any questions or concerns about this Privacy Policy, please contact us at goingscience@gmail.com."
+  },
+  "Tos": {
+    "Title": "Terms of Service of Quote Generator",
+    "text": "\nEffective Date: April 24, 2024\n\nIntroduction\n\nWelcome to Quote Generator. By accessing our website (https://quotegenerator.cc/), you agree to be bound by these Terms of Service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site.\n\nUse License\n\nPermission is granted to temporarily download one copy of the materials (information or software) on Quote Generator’s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license, you may not:\n\n●modify or copy the materials;\n\n●use the materials for any commercial purpose, or for any public display (commercial or non-commercial);\n\n●attempt to decompile or reverse engineer any software contained on Quote Generator’s website;\n\n●remove any copyright or other proprietary notations from the materials; or\n\n●transfer the materials to another person or “mirror” the materials on any other server.\n\nThis license shall automatically terminate if you violate any of these restrictions and may be terminated by Quote Generator at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.\n\nDisclaimer\n\nThe materials on Quote Generator’s website are provided on an ‘as is’ basis. Quote Generator makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.\n\nLimitations\n\nIn no event shall Quote Generator or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Quote Generator’s website, even if Quote Generator or a Quote Generator authorized representative has been notified orally or in writing of the possibility of such damage.\n\nAccuracy of Materials\n\nThe materials appearing on Quote Generator’s website could include technical, typographical, or photographic errors. Quote Generator does not warrant that any of the materials on its website are accurate, complete, or current. Quote Generator may make changes to the materials contained on its website at any time without notice. However, Quote Generator does not make any commitment to update the materials.\n\nLinks\n\nQuote Generator has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Quote Generator of the site. Use of any such linked website is at the user’s own risk.\n\nModifications\n\nQuote Generator may revise these Terms of Service for its website at any time without notice. By using this website, you are agreeing to be bound by the then current version of these Terms of Service.\n\nGoverning Law\n\nThese terms and conditions are governed by and construed in accordance with the laws of the USA and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.\n\nContact Us\n\nIf you have any questions about these Terms, please contact us at goingscience@gmail.com."
+  },
+  "seo": {
+    "Home": {
+      "title": "Quote Generator: Create Inspirational & AI-Generated Quotes",
+      "description": "Discover our versatile quote generator for inspirational, incorrect, and custom quotes. Features include an AI quote generator and an incorrect quote generator.",
+      "keywords": "Quote Generator"
+    },
+    "incorrectquotegenerator": {
+      "title": "Incorrect Quote Generator | Fun Misattributed Quotes",
+      "description": "Generate hilarious misattributed quotes with our Incorrect Quote Generator. Create funny, fake quotes from famous people for laughs and entertainment. Try now!",
+      "keywords": "Incorrect Quote Generator"
+    },
+    "inspirationalquotegenerator": {
+      "title": "Inspirational Quote Generator | Daily Motivation at Your Fingertips",
+      "description": "Discover our free inspirational quote generator. Get daily motivation, wisdom, and positivity with just one click. Perfect for social media or personal growth.",
+      "keywords": "Inspirational Quote Generator"
+    },
+    "aiquotegenerator": {
+      "title": "AI Quote Generator | Instant Quotes Using AI Generator",
+      "description": "Create unique, thought-provoking quotes instantly with our AI-powered quote generator. Perfect for social media, presentations, or personal inspiration.",
+      "keywords": "AI Quote Generator"
+    },
+    "randomquotegenerator": {
+      "title": "Random Quote Generator | Inspire Yourself Daily",
+      "description": "Discover inspiring quotes with our free random quote generator. Get daily wisdom, motivation, and insights from famous thinkers, leaders, and authors. Refresh for endless inspiration!",
+      "keywords": "Random Quote Generator"
+    },
+    "login": {
+      "title": "Login | Quote Generator",
+      "description": "Login | Quote Generator",
+      "keywords": "Login | Quote Generator"
+    },
+    "billing": {
+      "title": "Billing | Quote Generator",
+      "description": "Billing | Quote Generator",
+      "keywords": "Billing | Quote Generator"
+    },
+    "privacypolicy": {
+      "title": "Privacy Policy | Quote Generator",
+      "description": "Privacy Policy | Quote Generator",
+      "keywords": "Privacy Policy | Quote Generator"
+    },
+    "Tos": {
+      "title": "Terms of Service | Quote Generator",
+      "description": "Terms of Service | Quote Generator",
+      "keywords": "Terms of Service | Quote Generator"
+    }
+  }
+}
