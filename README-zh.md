@@ -2,7 +2,7 @@
 
 # [Quote Generator.cc](https://quotegenerator.cc/)
 
-用AI在几秒钟内生成你想要的Excel公式。
+用AI在几秒钟内生成你想要的格言。
 
 [![生成名人名言](./public/screenshot.png)](https://quotegenerator.cc/)
 演示地址:https://quotegenerator.cc/
