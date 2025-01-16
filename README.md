@@ -50,5 +50,8 @@ pnpm run dev
 
 ## One-Click Deploy
 
-[Peluztruco](https://peluztruco.org/).[RipeTruco](https://ripetruco.sivutruco.org/).
+[Peluztruco](https://peluztruco.org/).
+[RipeTruco](https://ripetruco.sivutruco.org/).
+[Goxcomplo](https://goxcomplo.site/).
+[Hyperpigmentation meme](https://hyperpigmentationmeme.com/).
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples)"# Quote-Generator-Using-AI" 
